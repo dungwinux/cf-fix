@@ -1,8 +1,10 @@
 # cf-fix
 Danh sách tổng hợp những bài tập trên CodeFun có test lỗi.
 
+**Cập nhật lần cuối: _20/05/2018_**
+
 ## Thông tin
-Danh sách này chỉ bao gồm những bài tập có đặc điểm:
+Danh sách này bao gồm những bài tập có đặc điểm:
 - Test của bài được dùng để kiểm tra bị lỗi.
 - Submit nhiều lần, thử đủ mọi trường hợp nhưng (gần như) không thể đạt được 100 điểm.
 
