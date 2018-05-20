@@ -6,11 +6,12 @@ Danh sách tổng hợp những bài tập trên CodeFun có test lỗi.
 ## Thông tin
 Danh sách này bao gồm những bài tập có đặc điểm:
 - Test chấm điểm bị lỗi.
-- Submit nhiều lần, thử đủ mọi trường hợp nhưng (gần như) không thể đạt được 100 điểm.
+- Submit nhiều lần, thử đủ mọi trường hợp theo đề bài nhưng (gần như) không thể đạt được 100 điểm.
 
 Những dạng bài tập không bao gồm trong repo này:
-- Chỉ có một hay không có test nào.
-- Test mẫu cho trước bị sai.
+- Test chấm đúng với đề bài.
+- Bài chỉ có một hay không có test nào.
+- Test mẫu cho trước của bài bị sai.
 
 > **Chú ý**: Một số bài tập không thể giải được bình thường và bắt buộc phải thử sai (_cắn_). Những trường hợp như thế sẽ được xem xét trước khi được thêm vào danh sách này.
 
