@@ -1,7 +1,7 @@
 # cf-fix
 Danh sách tổng hợp những bài tập trên CodeFun có test lỗi.
 
-**Cập nhật lần cuối: _20/05/2018_**
+**Cập nhật lần cuối: _22/05/2018_**
 
 ## Thông tin
 Danh sách này bao gồm những bài tập có đặc điểm:
